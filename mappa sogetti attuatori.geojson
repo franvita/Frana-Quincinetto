@@ -25,7 +25,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Soggetto": "entro Funzionale Regione Piemonte c/o ARPA Piemonte",
+        "Soggetto": "Centro Funzionale Regione Piemonte c/o ARPA Piemonte",
         "Indirizzo": "Via Pio VII, 9 – 10135 Torino",
         "Telefono": "011 1968 0111",
         "email": "protocollo@pec.arpa.piemonte.it - "
@@ -140,13 +140,73 @@
         "Indirizzo": "Via Roma, 59, 10010 Banchette (TO)",
         "Fax": "0125.611468",
         "Telefono": "0125.611615",
-        "email": "poliziamunicipale@comune.banchette.to.it"
+        "email": "poliziamunicipale@comune.banchette.to.it",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           7.85648,
           45.460744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Soggetto": "Comune di Montaldo Dora",
+        "Indirizzo": "Piazza IV Novembre, 3 - 10016 Montalto Dora (TO)",
+        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "email": "poliziamunicipale@comune.montalto-dora.to.it",
+        "Telefono": "0125.651043",
+        "Fax": "0125.621294"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.863785,
+          45.493582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Soggetto": "Comune di Borgofranco d'Ivrea",
+        "Indirizzo": "Via Mombarone, 3 - 10013 - Borgofranco d'Ivrea (TO)",
+        "Telefono": "0125 755814 - 755815",
+        "Fax": "0125-751328",
+        "email": "com.vigili@comune.borgofranco.to.it, vigili@comune.borgofranco.to.it",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.858536,
+          45.513027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Soggetto": "Comune di Quassolo",
+        "Indirizzo": "Piazza Municipio, 1  -10010 Quassolo (TO)",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Telefono": "0125.750150",
+        "email": "quassolo@ruparpiemonte.it, quassolo@postemailcertificata.it",
+        "Fax": "0125.750965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.832572,
+          45.524816
         ]
       }
     }
