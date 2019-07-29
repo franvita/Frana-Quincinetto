@@ -48,7 +48,7 @@
         "Indirizzo": "Strada Barat 13, 11024 Chatillon (AO)",
         "Telefono": "39 0166 560411",
         "email": "sav@a5sav.it",
-        "Fax": "+39 0166 563914"
+        "Fax": "39 0166 563914"
       },
       "geometry": {
         "type": "Point",
@@ -112,6 +112,41 @@
         "coordinates": [
           7.612526,
           45.05362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-color": "#7e7e7e",
+        "Soggetto": "Comune di Ivrea",
+        "Indirizzo": "Piazza Ferruccio Nazionale, 4, 10015 Ivrea (TO)",
+        "Telefono": " 0125 4101 Int.: 213",
+        "email": "protezionecivile@comune.ivrea.to.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.876023,
+          45.466287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Soggetto": "Comune di Banchette",
+        "Indirizzo": "Via Roma, 59, 10010 Banchette (TO)",
+        "Fax": "0125.611468",
+        "Telefono": "0125.611615",
+        "email": "poliziamunicipale@comune.banchette.to.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.85648,
+          45.460744
         ]
       }
     }
