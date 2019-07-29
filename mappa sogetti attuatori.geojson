@@ -1,1 +1,119 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","Soggetto":"DST Dipartimento di Scienze della Terra, Università degli Studi di Firenze - CNR  IGG Centro di Competenza Nazionale P.C.","Indirizzo":"Via La Pira, 4 - 50121 Firenze","Telefono":"055 290312"},"geometry":{"type":"Point","coordinates":[11.260087,43.778145]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","Soggetto":"entro Funzionale Regione Piemonte c/o ARPA Piemonte","Indirizzo":"Via Pio VII, 9 – 10135 Torino","Telefono":"011 1968 0111","email":"protocollo@pec.arpa.piemonte.it - "},"geometry":{"type":"Point","coordinates":[7.655035,45.029214]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","Soggetto":"S.A.V. - Società Autostrade Valdostane S.P.A.","Indirizzo":"Strada Barat 13, 11024 Chatillon (AO)","Telefono":"39 0166 560411","email":"sav@a5sav.it","Fax":"+39 0166 563914"},"geometry":{"type":"Point","coordinates":[7.620667,45.748319]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","Soggetto":"Polizia di Stato, Sottosezione Polizia Stradale – C.O.A. Centro Operativo Autostradale","Indirizzo":"via Niccolò Paganini 60 – 10036 Settimo Torinese (TO)","Telefono":"011 816 5700"},"geometry":{"type":"Point","coordinates":[7.731122,45.135957]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"large","marker-symbol":"","Soggetto":"UTG Prefettura di Torino","Indirizzo":"Piazza Castello, 201/205, 10124 Torino TO","Telefono":"011 55891","email":"prefettura.torino@interno.it"},"geometry":{"type":"Point","coordinates":[7.687161,45.071365]}},{"type":"Feature","properties":{"Soggetto":"Città Metropolitana di Torino, Servizio Protezione Civile","Indirizzo":"Via Alberto Sordi, 13 10095 Grugliasco (TO)","Telefono":"011 861 5555","Fax":"011 861 4444","email":"protezionecivile@cittametropolitana.torino.it","marker-symbol":""},"geometry":{"type":"Point","coordinates":[7.612526,45.05362]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Soggetto": "DST Dipartimento di Scienze della Terra, Università degli Studi di Firenze - CNR  IGG Centro di Competenza Nazionale P.C.",
+        "Indirizzo": "Via La Pira, 4 - 50121 Firenze",
+        "Telefono": "055 290312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.260087,
+          43.778145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Soggetto": "entro Funzionale Regione Piemonte c/o ARPA Piemonte",
+        "Indirizzo": "Via Pio VII, 9 – 10135 Torino",
+        "Telefono": "011 1968 0111",
+        "email": "protocollo@pec.arpa.piemonte.it - "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.655035,
+          45.029214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Soggetto": "S.A.V. - Società Autostrade Valdostane S.P.A.",
+        "Indirizzo": "Strada Barat 13, 11024 Chatillon (AO)",
+        "Telefono": "39 0166 560411",
+        "email": "sav@a5sav.it",
+        "Fax": "+39 0166 563914"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.620667,
+          45.748319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Soggetto": "Polizia di Stato, Sottosezione Polizia Stradale – C.O.A. Centro Operativo Autostradale",
+        "Indirizzo": "via Niccolò Paganini 60 – 10036 Settimo Torinese (TO)",
+        "Telefono": "011 816 5700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.731122,
+          45.135957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Soggetto": "UTG Prefettura di Torino",
+        "Indirizzo": "Piazza Castello, 201/205, 10124 Torino TO",
+        "Telefono": "011 55891",
+        "email": "prefettura.torino@interno.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.687161,
+          45.071365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Soggetto": "Città Metropolitana di Torino, Servizio Protezione Civile",
+        "Indirizzo": "Via Alberto Sordi, 13 10095 Grugliasco (TO)",
+        "Telefono": "011 861 5555",
+        "Fax": "011 861 4444",
+        "email": "protezionecivile@cittametropolitana.torino.it",
+        "marker-symbol": "",
+        "marker-size": "medium",
+        "marker-color": "#7e7e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612526,
+          45.05362
+        ]
+      }
+    }
+  ]
+}
